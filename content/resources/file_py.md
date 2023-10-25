@@ -2,18 +2,17 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/123-ocw-ci-test-course-fall-2022/example_jpg.jpg
-file_type: image/jpeg
+file: /courses/ocw-ci-test-course/file.py
+file_type: text/x-python-script
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Activity Assignments
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: example_jpg.jpg
-uid: 4ff6cec7-9ef3-40e2-869a-313350053b32
+resourcetype: Document
+title: file.py
+uid: bd6d24ab-8bd3-4cac-9306-28645cf41985
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
