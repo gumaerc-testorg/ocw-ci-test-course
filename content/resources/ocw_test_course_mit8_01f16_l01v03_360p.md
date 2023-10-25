@@ -3,7 +3,6 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/123-ocw-ci-test-course-fall-2022/ocw_test_course_mit8_01f16_l01v03_360p_360p_16_9.mp4
-file_size: null
 file_type: video/mp4
 image_metadata:
   caption: ''
