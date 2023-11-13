@@ -20,7 +20,7 @@ parent_title: Test Course Video
 parent_type: SupplementalResourceSection
 related_resources_text: 'Practice problems
 
-  {{% resource_link "55fcbd34-2dd0-40ca-bc7c-689b96d7c0b0" "(PDF)" %}}'
+  {{% resource_link "8e40ed3c-81d4-47e1-bf2f-4fd4a52a1da8" "(PDF)" %}}'
 resource_index_text: ''
 resourcetype: Video
 start_time: 13
