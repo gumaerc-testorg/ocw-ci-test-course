@@ -15,9 +15,9 @@ resourcetype: Video
 title: ocw_test_course_MIT8_01F16_L01v01_360p.mp4
 uid: bb166b4d-cea5-4fff-a950-6b5633f2bb8a
 video_files:
-  video_captions_file: /courses/123-ocw-ci-test-course-fall-2022/1heExJapmYR47C1bOYy8DNUwyrshNkNCe_transcript.webvtt
+  video_captions_file: /courses/ocw-ci-test-course/1heExJapmYR47C1bOYy8DNUwyrshNkNCe_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/RlzM-MDATzY/default.jpg
-  video_transcript_file: /courses/123-ocw-ci-test-course-fall-2022/1heExJapmYR47C1bOYy8DNUwyrshNkNCe_transcript.pdf
+  video_transcript_file: /courses/ocw-ci-test-course/1heExJapmYR47C1bOYy8DNUwyrshNkNCe_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
