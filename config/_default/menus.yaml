@@ -31,6 +31,14 @@ leftnav:
   name: External Resources
   pageRef: /pages/external-resources-page
   weight: 80
+- identifier: 2c5e6bc5-e514-4d4d-ab95-4c8eba73ddae
+  name: MITx Online
+  pageRef: /external-resources/mitxonline
+  weight: 90
+- identifier: b8269a72-5e16-4df5-8d82-b150c8a0e8d9
+  name: Learn!
+  pageRef: /external-resources/learnmitedu
+  weight: 100
 - identifier: d1f35266-366e-45f1-bfc2-bcd46eb6c4a4
   name: Subsection 1a Menu Title
   pageRef: /pages/subsection-1a
