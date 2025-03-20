@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/ocw-ci-test-course/example_pdf.pdf
+file: /courses/ocw-ci-test-course/example_pdf.pdf
 file_size: 273596
 file_type: application/pdf
 image_metadata:
