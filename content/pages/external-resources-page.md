@@ -2,7 +2,6 @@
 content_type: page
 description: Test external resources.
 draft: false
-file: /courses/ocw-ci-test-course
 title: External Resources Page
 uid: 2f9c424e-c9ba-4d1e-b1f6-e89de1bf682a
 ---
