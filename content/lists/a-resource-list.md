@@ -2,7 +2,6 @@
 content_type: resource-list
 description: description
 draft: false
-file: /courses/ocw-ci-test-course
 resources:
   content:
   - 7f1c9c9a-7dd8-4c6e-8592-fb43e1d7d363

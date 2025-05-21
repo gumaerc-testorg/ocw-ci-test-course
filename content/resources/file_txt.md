@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ocw-ci-test-course/file.txt
+file: courses/ocw-ci-test-course/file.txt
 file_type: text/plain
 image_metadata:
   caption: ''
