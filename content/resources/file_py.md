@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ocw-ci-test-course/file.py
+file: courses/ocw-ci-test-course/file.py
 file_type: text/x-python-script
 image_metadata:
   caption: ''

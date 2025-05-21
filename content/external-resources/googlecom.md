@@ -1,7 +1,6 @@
 ---
 content_type: external-resource
 external_url: https://google.com
-file: /courses/ocw-ci-test-course
 has_external_license_warning: true
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid
