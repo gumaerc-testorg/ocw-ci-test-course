@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ocw-ci-test-course/example_jpg.jpg
+file: /ol-ocw-studio-app/courses/ocw-ci-test-course/example_jpg.jpg
 file_size: 154826
 file_type: image/jpeg
 image_metadata:
