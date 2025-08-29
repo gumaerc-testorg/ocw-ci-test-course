@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ocw-ci-test-course/file_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/ocw-ci-test-course/file_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
